@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 640" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="13">
+  <rect width="980" height="640" fill="#ffffff"/>
+
+  <!-- ========== 图 1：叠层剖面 ========== -->
+  <text x="20" y="28" font-size="16" font-weight="bold" fill="#222">图 1　板子的剖面（纵向放大，不按比例）</text>
+
+  <!-- 顶层：两侧地铜 + 中间射频线 -->
+  <rect x="120" y="60" width="200" height="14" fill="#c98a2b"/>
+  <rect x="380" y="60" width="60" height="14" fill="#c98a2b"/>
+  <rect x="500" y="60" width="200" height="14" fill="#c98a2b"/>
+  <text x="410" y="52" text-anchor="middle" fill="#222">射频线 W = 0.417</text>
+  <text x="220" y="52" text-anchor="middle" fill="#666">顶层地铜</text>
+  <text x="600" y="52" text-anchor="middle" fill="#666">顶层地铜</text>
+  <!-- G 标注 -->
+
+  <!-- RO4003C -->
+  <rect x="120" y="74" width="580" height="44" fill="#e8f1fb" stroke="#2f6db5" stroke-width="2"/>
+  <text x="410" y="101" text-anchor="middle" fill="#2f6db5" font-weight="bold">RO4003C　厚 0.203 mm　Dk 3.55</text>
+  <text x="350" y="71" text-anchor="middle" fill="#555" font-size="11">G=1.0</text>
+  <text x="470" y="71" text-anchor="middle" fill="#555" font-size="11">G=1.0</text>
+  <!-- GND2 -->
+  <rect x="120" y="118" width="580" height="10" fill="#c98a2b"/>
+  <!-- FR-4 0.2 -->
+  <rect x="120" y="128" width="580" height="30" fill="#eef3e6"/>
+  <text x="410" y="148" text-anchor="middle" fill="#557a2a">FR-4　0.2 mm</text>
+  <!-- GND3 -->
+  <rect x="120" y="158" width="580" height="10" fill="#c98a2b"/>
+  <!-- FR-4 1.0 -->
+  <rect x="120" y="168" width="580" height="80" fill="#eef3e6"/>
+  <text x="410" y="213" text-anchor="middle" fill="#557a2a">FR-4　1.0 mm</text>
+  <!-- Bottom -->
+  <rect x="120" y="248" width="580" height="10" fill="#c98a2b"/>
+
+  <!-- 左侧层名 -->
+  <g fill="#333" font-size="12" text-anchor="end">
+    <text x="112" y="71">Top 铜</text>
+    <text x="112" y="100">介质 1</text>
+    <text x="112" y="127">GND2 铜</text>
+    <text x="112" y="147">介质 2</text>
+    <text x="112" y="167">GND3 铜</text>
+    <text x="112" y="212">介质 3</text>
+    <text x="112" y="257">Bottom 铜</text>
+  </g>
+
+  <!-- 右侧：两种厚度 -->
+  <path d="M712 74 h10 v44 h-10" fill="none" stroke="#2f6db5" stroke-width="2"/>
+  <text x="730" y="92" fill="#2f6db5" font-weight="bold">h = 0.203 mm</text>
+  <text x="730" y="109" fill="#2f6db5" font-size="12">决定 50 Ω 要多宽</text>
+  <path d="M840 60 h10 v198 h-10" fill="none" stroke="#b5462f" stroke-width="2"/>
+  <text x="860" y="188" fill="#b5462f" font-weight="bold">总厚 1.566 mm</text>
+  <text x="860" y="205" fill="#b5462f" font-size="12">给连接器夹板用</text>
+  <text x="860" y="221" fill="#b5462f" font-size="12">（要求 1.57）</text>
+
+  <text x="120" y="285" fill="#444" font-size="12">射频线只"看见"它正下方的 RO4003C 和 GND2；下面两层 FR-4 只是把板子垫厚，换厚换薄都不影响线宽。</text>
+
+  <!-- ========== 图 2：射频线俯视 ========== -->
+  <text x="20" y="335" font-size="16" font-weight="bold" fill="#222">图 2　输入射频线从上往下看（J1 → 芯片 2 号脚，宽度方向放大）</text>
+
+  <!-- 地铜（上下） -->
+  <rect x="40" y="380" width="460" height="52" fill="#f3e3c8"/>
+  <rect x="40" y="508" width="460" height="52" fill="#f3e3c8"/>
+  <text x="270" y="400" text-anchor="middle" fill="#8a6326" font-size="12">地铜（离射频线 1.0 mm）</text>
+
+  <!-- 板边 -->
+  <line x1="40" y1="365" x2="40" y2="575" stroke="#222" stroke-width="2"/>
+  <text x="44" y="592" fill="#222" font-size="12">板边 x=0</text>
+
+  <!-- 连接器焊盘 0.406 -->
+  <rect x="40" y="461.9" width="162" height="16.2" fill="#7a7a7a"/>
+  <!-- 0.417 宽线 -->
+  <rect x="202" y="461.7" width="151" height="16.6" fill="#c98a2b"/>
+  <!-- 0.25 收窄 -->
+  <rect x="353" y="465" width="12" height="10" fill="#d0452b"/>
+  <!-- 芯片 -->
+  <rect x="362" y="420" width="130" height="100" fill="none" stroke="#222" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="430" y="445" text-anchor="middle" fill="#222">QPA2609</text>
+  <rect x="362" y="464" width="16" height="12" fill="#999"/>
+
+  <!-- 标注 -->
+  <g font-size="12">
+    <text x="121" y="436" text-anchor="middle" fill="#333">连接器焊盘 0.406</text>
+    <text x="121" y="452" text-anchor="middle" fill="#888" font-size="11">（Cinch 推荐，约 50.6 Ω）</text>
+
+    <text x="278" y="497" text-anchor="middle" fill="#333" dy="0">主线 0.417 = 50 Ω</text>
+
+    <line x1="359" y1="480" x2="359" y2="540" stroke="#d0452b"/>
+    <text x="359" y="555" text-anchor="middle" fill="#d0452b">收窄 0.25（约 0.3 mm 长）</text>
+  </g>
+
+  <!-- x 坐标刻度 -->
+  <g fill="#666" font-size="11" text-anchor="middle">
+    <line x1="202" y1="565" x2="202" y2="575" stroke="#666"/><text x="202" y="590">5.41</text>
+    <line x1="353" y1="565" x2="353" y2="575" stroke="#666"/><text x="340" y="590">10.45</text>
+    <line x1="365" y1="565" x2="365" y2="575" stroke="#666"/><text x="380" y="590">10.757</text>
+  </g>
+
+  <!-- 右侧说明 -->
+  <g font-size="12" fill="#333">
+    <text x="530" y="400" font-weight="bold">要点</text>
+    <text x="530" y="422">· 三根射频线 RFIN / RFOUT / THRU</text>
+    <text x="530" y="440">　主体都是 0.417，已经统一。</text>
+    <text x="530" y="464">· 连接器焊盘 0.406 和 0.417</text>
+    <text x="530" y="482">　只差 0.011 mm，图上看不出来。</text>
+    <text x="530" y="506">· 只有芯片脚前最后 0.3 mm 变细，</text>
+    <text x="530" y="524">　因为芯片引脚本身只有 0.25 宽。</text>
+    <text x="530" y="524" dy="24">· 输出侧对称：14.643→14.95 是 0.25，</text>
+    <text x="530" y="566">　14.95→22.76 是 0.417。</text>
+  </g>
+  <text x="20" y="625" fill="#888" font-size="11">单位 mm。坐标是 AD 里的坐标（板左下角为原点），来自 2026-10-15 的布线记录。</text>
+</svg>

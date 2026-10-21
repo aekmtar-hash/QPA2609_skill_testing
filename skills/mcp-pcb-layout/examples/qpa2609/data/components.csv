@@ -1,0 +1,48 @@
+﻿designator,lib_file,lib_ref,footprint,value,x_mm,y_mm,x_mil,y_mil,rotation_deg,layer,outside_cut
+C101,Miscellaneous Devices.IntLib (AD built-in),Cap,C1206,10uF 25V,14.0,99.25,551.181,3907.48,270,Top,False
+C102,Miscellaneous Devices.IntLib (AD built-in),Cap,0402,100nF,12.6,100.5,496.063,3956.693,270,Top,False
+C103,Miscellaneous Devices.IntLib (AD built-in),Cap,6-0805_N,1uF 25V,13.9,92.5,547.244,3641.732,270,Top,False
+C104,Miscellaneous Devices.IntLib (AD built-in),Cap,C1206,10uF 25V,16.4,86.6,645.669,3409.449,180,Top,False
+C105,Miscellaneous Devices.IntLib (AD built-in),Cap,C1210,47uF 25V,16.6,90.5,653.543,3562.992,90,Top,False
+C106,Miscellaneous Devices.IntLib (AD built-in),Cap,6-0805_N,10uF,10.2,99.6,401.575,3921.26,90,Top,False
+C107,Miscellaneous Devices.IntLib (AD built-in),Cap,0402,10nF,7.2,95.8,283.465,3771.654,180,Top,False
+C108,Miscellaneous Devices.IntLib (AD built-in),Cap,6-0805_N,10uF,13.5,84.4,531.496,3322.835,0,Top,False
+C109,Miscellaneous Devices.IntLib (AD built-in),Cap,0402,10nF,7.4,88.2,291.339,3472.441,180,Top,False
+C110,Miscellaneous Devices.IntLib (AD built-in),Cap,6-0805_N,10uF,15.1,82.0,594.488,3228.346,0,Top,False
+C111,Miscellaneous Devices.IntLib (AD built-in),Cap,1608[0603],4.7uF,7.7,76.5,303.15,3011.811,90,Top,False
+C112,Miscellaneous Devices.IntLib (AD built-in),Cap,6-0805_N,10uF,14.4,76.8,566.929,3023.622,90,Top,False
+C113,Miscellaneous Devices.IntLib (AD built-in),Cap,0402,100nF,17.6,78.9,692.913,3106.299,90,Top,False
+C114,Miscellaneous Devices.IntLib (AD built-in),Cap,C1206,10uF 25V,14.2,57.55,559.055,2265.748,270,Top,False
+C115,Miscellaneous Devices.IntLib (AD built-in),Cap,1608[0603],1uF,9.5,61.1,374.016,2405.512,90,Top,False
+C116,Miscellaneous Devices.IntLib (AD built-in),Cap,1608[0603],4.7uF,10.1,50.4,397.638,1984.252,270,Top,False
+C117,Miscellaneous Devices.IntLib (AD built-in),Cap,6-0805_N,10uF,14.1,51.6,555.118,2031.496,270,Top,False
+C118,Miscellaneous Devices.IntLib (AD built-in),Cap,0402,100nF,18.6,47.55,732.283,1872.047,90,Top,False
+D101,SSA34-E35AT.SchLib,SSA34-E35AT,CR_A34-E35AT_VIS,SS34 SMA,17.6,103.0,692.913,4055.118,90,Top,False
+F101,1812L07524DR.SchLib,1812L07524DR,FUSE_1812L075_LTF,1812L075/24DR,11.4,105.4,448.819,4149.606,0,Top,False
+FB101,BLM18AG601SN1D.SchLib,BLM18AG601SN1D,FILTER_BLM18AG_MUR,BLM18AG601SN1D,17.4,48.5,685.039,1909.449,270,Top,False
+FB102,BLM18AG601SN1D.SchLib,BLM18AG601SN1D,FILTER_BLM18AG_MUR,BLM18AG601SN1D,17.6,76.5,692.913,3011.811,90,Top,False
+LED101,APT1608SGC.SchLib,APT1608SGC,LED_APT1608SGC_KNB,APT1608SGC GREEN,8.3,100.95,326.772,3974.409,270,Top,False
+P101,Miscellaneous Connectors.IntLib (AD built-in),Header 2,HDR1X2,12V IN,2.2,105.4,86.614,4149.606,270,Top,True
+Q101,MMBT3904LT1G.SchLib,MMBT3904LT1G,SOT-23_3L_ONS,MMBT3904LT1G,9.2,66.4,362.205,2614.173,270,Top,False
+Q102,2N7002LT1G.SchLib,2N7002LT1G,SOT-23_3L_ONS,2N7002LT1G,12.0,62.6,472.441,2464.567,180,Top,False
+R101,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,316k,9.85,97.4,387.795,3834.646,180,Top,False
+R102,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,100k,8.2,96.6,322.835,3803.15,180,Top,False
+R103,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,316k,10.6,86.6,417.323,3409.449,180,Top,False
+R104,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,100k,8.6,86.6,338.583,3409.449,180,Top,False
+R105,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,4.7k,8.3,98.6,326.772,3881.89,90,Top,False
+R106,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,2.0k,7.7,74.4,303.15,2929.134,270,Top,False
+R107,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,10k,16.0,76.4,629.921,3007.874,90,Top,False
+R108,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,100k,9.3,68.7,366.142,2704.724,0,Top,False
+R109,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,27k,6.75,66.4,265.748,2614.173,270,Top,False
+R110,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,1M,14.2,65.2,559.055,2566.929,270,Top,False
+R111,Miscellaneous Devices.IntLib (AD built-in),Res2,RESC6332,22R 2W,17.0,62.5,669.291,2460.63,270,Top,False
+R112,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,100k,14.3,61.2,562.992,2409.449,270,Top,False
+R113,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,15.0k,8.2,61.1,322.835,2405.512,90,Top,False
+R114,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,36.0k,8.45,51.5,332.677,2027.559,180,Top,False
+R115,Miscellaneous Devices.IntLib (AD built-in),Res2,0402,604R,7.3,59.3,287.402,2334.646,180,Top,False
+R116,Miscellaneous Devices.IntLib (AD built-in),Res2,6-0805_N,1R 1%,17.4,51.8,685.039,2039.37,270,Top,False
+RV101,3296W-1-103LF.SchLib,3296W-1-103LF,POT_3296W,10k 3296W,16.3,72.2,641.732,2842.52,180,Top,False
+TP103,Miscellaneous Connectors.IntLib (AD built-in),Socket,PIN1,TP -5V,2.6,80.0,102.362,3149.606,0,Top,True
+U101,LTC3260EMSEPBF.SchLib,LTC3260EMSEPBF,MSOP-16_MSE_LIT,LTC3260EMSE#PBF,10.6,92.5,417.323,3641.732,90,Top,False
+U102,LT3094EMSEPBF.SchLib,LT3094EMSEPBF,05-08-1666_ADI,LT3094EMSE#PBF,11.0,79.0,433.071,3110.236,270,Top,False
+U103,LT3045EMSEPBF.SchLib,LT3045EMSEPBF,MSOP12_MSE_ADI,LT3045EMSE#PBF,10.8,55.6,425.197,2188.976,270,Top,False

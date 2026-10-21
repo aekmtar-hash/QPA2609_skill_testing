@@ -1,0 +1,516 @@
+{
+ "placement": [
+  {
+   "kind": "designator",
+   "text": "RV101",
+   "own": "RV101",
+   "x_mm": 11.648,
+   "y_mm": 68.183,
+   "rot": 0.0,
+   "x_mil": 5213.583,
+   "y_mil": 4419.339,
+   "moved_mm": 0.2,
+   "over_via": false,
+   "silk_gap": 0.321,
+   "pad_gap": 1.468,
+   "own_other": [
+    0.321,
+    1.467
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "TP103",
+   "own": "TP103",
+   "x_mm": 0.475,
+   "y_mm": 77.1,
+   "rot": 0.0,
+   "x_mil": 4773.701,
+   "y_mil": 4770.402,
+   "moved_mm": 0.15,
+   "over_via": false,
+   "silk_gap": 0.32,
+   "pad_gap": 1.07,
+   "own_other": [
+    0.32,
+    2.445
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "R111",
+   "own": "R111",
+   "x_mm": 15.3,
+   "y_mm": 66.4,
+   "rot": 0.0,
+   "x_mil": 5357.362,
+   "y_mil": 4349.142,
+   "moved_mm": 0.25,
+   "over_via": false,
+   "silk_gap": 1.82,
+   "pad_gap": 0.42,
+   "own_other": [
+    0.42,
+    0.834
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "R116",
+   "own": "R116",
+   "x_mm": 15.7,
+   "y_mm": 53.8,
+   "rot": 0.0,
+   "x_mil": 5373.11,
+   "y_mil": 3853.079,
+   "moved_mm": 0.1,
+   "over_via": false,
+   "silk_gap": 1.82,
+   "pad_gap": 0.42,
+   "own_other": [
+    0.42,
+    0.958
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "P101",
+   "own": "P101",
+   "x_mm": 0.5,
+   "y_mm": 107.15,
+   "rot": 0.0,
+   "x_mil": 4774.685,
+   "y_mil": 5953.473,
+   "moved_mm": 0.1,
+   "over_via": false,
+   "silk_gap": 0.3,
+   "pad_gap": 0.92,
+   "own_other": [
+    0.3,
+    3.175
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "D101",
+   "own": "D101",
+   "x_mm": 15.9,
+   "y_mm": 106.146,
+   "rot": 0.0,
+   "x_mil": 5380.984,
+   "y_mil": 5913.945,
+   "moved_mm": 0.1,
+   "over_via": false,
+   "silk_gap": 0.615,
+   "pad_gap": 0.424,
+   "own_other": [
+    0.424,
+    0.927
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "U103",
+   "own": "U103",
+   "x_mm": 8.126,
+   "y_mm": 53.9,
+   "rot": 90.0,
+   "x_mil": 5074.921,
+   "y_mil": 3857.016,
+   "moved_mm": 0.2,
+   "over_via": false,
+   "silk_gap": 0.321,
+   "pad_gap": 0.753,
+   "own_other": [
+    0.321,
+    1.67
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "U101",
+   "own": "U101",
+   "x_mm": 9.524,
+   "y_mm": 88.113,
+   "rot": 0.0,
+   "x_mil": 5129.961,
+   "y_mil": 5203.985,
+   "moved_mm": 0.1,
+   "over_via": false,
+   "silk_gap": 0.857,
+   "pad_gap": 0.424,
+   "own_other": [
+    0.424,
+    1.183
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "U102",
+   "own": "U102",
+   "x_mm": 8.297,
+   "y_mm": 78.544,
+   "rot": 90.0,
+   "x_mil": 5081.654,
+   "y_mil": 4827.252,
+   "moved_mm": 0.2,
+   "over_via": false,
+   "silk_gap": 0.35,
+   "pad_gap": 0.782,
+   "own_other": [
+    0.35,
+    0.864
+   ]
+  },
+  {
+   "kind": "designator",
+   "text": "F101",
+   "own": "F101",
+   "x_mm": 9.7,
+   "y_mm": 102.145,
+   "rot": 0.0,
+   "x_mil": 5136.89,
+   "y_mil": 5756.426,
+   "moved_mm": 0.2,
+   "over_via": true,
+   "silk_gap": 0.321,
+   "pad_gap": 0.6,
+   "own_other": [
+    0.321,
+    0.765
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "QPA2609",
+   "own": null,
+   "x_mm": 16.4,
+   "y_mm": 92.9,
+   "rot": 90.0,
+   "x_mil": 5400.669,
+   "y_mil": 5392.449,
+   "moved_mm": 13.42,
+   "over_via": true,
+   "silk_gap": 0.421,
+   "pad_gap": 0.42,
+   "own_other": null
+  },
+  {
+   "kind": "string",
+   "text": "+3.5V",
+   "own": "J3",
+   "x_mm": 20.5,
+   "y_mm": 46.5,
+   "rot": 0.0,
+   "x_mil": 5562.087,
+   "y_mil": 3565.678,
+   "moved_mm": 0.6,
+   "over_via": true,
+   "silk_gap": 0.321,
+   "pad_gap": 1.071,
+   "own_other": [
+    0.321,
+    1.57
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "+12V",
+   "own": "P101",
+   "x_mm": 5.4,
+   "y_mm": 103.95,
+   "rot": 90.0,
+   "x_mil": 4967.598,
+   "y_mil": 5827.489,
+   "moved_mm": 0.636,
+   "over_via": false,
+   "silk_gap": 0.75,
+   "pad_gap": 1.37,
+   "own_other": [
+    0.75,
+    1.234
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "ADJ",
+   "own": "RV101",
+   "x_mm": 16.386,
+   "y_mm": 68.171,
+   "rot": 0.0,
+   "x_mil": 5400.118,
+   "y_mil": 4418.867,
+   "moved_mm": 0.391,
+   "over_via": false,
+   "silk_gap": 0.333,
+   "pad_gap": 2.191,
+   "own_other": [
+    0.333,
+    2.191
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "GND",
+   "own": "J6",
+   "x_mm": 1.0,
+   "y_mm": 15.4,
+   "rot": 0.0,
+   "x_mil": 4794.37,
+   "y_mil": 2341.268,
+   "moved_mm": 0.0,
+   "over_via": false,
+   "silk_gap": 0.55,
+   "pad_gap": 1.419,
+   "own_other": [
+    0.55,
+    6.252
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "GND",
+   "own": "J5",
+   "x_mm": 1.0,
+   "y_mm": 50.8,
+   "rot": 0.0,
+   "x_mil": 4794.37,
+   "y_mil": 3734.969,
+   "moved_mm": 0.0,
+   "over_via": false,
+   "silk_gap": 0.55,
+   "pad_gap": 1.419,
+   "own_other": [
+    0.55,
+    4.02
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "NEG",
+   "own": "J4",
+   "x_mm": 21.65,
+   "y_mm": 12.45,
+   "rot": 0.0,
+   "x_mil": 5607.362,
+   "y_mil": 2225.126,
+   "moved_mm": 0.696,
+   "over_via": false,
+   "silk_gap": 0.304,
+   "pad_gap": 1.09,
+   "own_other": [
+    0.34,
+    3.302
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "-5V",
+   "own": "TP103",
+   "x_mm": 3.45,
+   "y_mm": 82.1,
+   "rot": 0.0,
+   "x_mil": 4890.827,
+   "y_mil": 4967.252,
+   "moved_mm": 0.559,
+   "over_via": false,
+   "silk_gap": 0.52,
+   "pad_gap": 1.27,
+   "own_other": [
+    0.52,
+    2.96
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "GND",
+   "own": "P101",
+   "x_mm": 4.95,
+   "y_mm": 100.9,
+   "rot": 90.0,
+   "x_mil": 4949.882,
+   "y_mil": 5707.41,
+   "moved_mm": 0.6,
+   "over_via": false,
+   "silk_gap": 0.3,
+   "pad_gap": 0.92,
+   "own_other": [
+    0.3,
+    2.453
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "VG",
+   "own": "J4",
+   "x_mm": 21.65,
+   "y_mm": 15.05,
+   "rot": 0.0,
+   "x_mil": 5607.362,
+   "y_mil": 2327.489,
+   "moved_mm": 0.652,
+   "over_via": false,
+   "silk_gap": 0.34,
+   "pad_gap": 1.112,
+   "own_other": [
+    0.34,
+    5.902
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "VD",
+   "own": "J3",
+   "x_mm": 21.65,
+   "y_mm": 50.4,
+   "rot": 0.0,
+   "x_mil": 5607.362,
+   "y_mil": 3719.221,
+   "moved_mm": 0.65,
+   "over_via": false,
+   "silk_gap": 0.34,
+   "pad_gap": 1.103,
+   "own_other": [
+    0.34,
+    3.329
+   ]
+  },
+  {
+   "kind": "string",
+   "text": "MODULE",
+   "own": null,
+   "x_mm": 17.9,
+   "y_mm": 92.9,
+   "rot": 90.0,
+   "x_mil": 5459.724,
+   "y_mil": 5392.449,
+   "moved_mm": 0.1,
+   "over_via": true,
+   "silk_gap": 0.627,
+   "pad_gap": 0.42,
+   "own_other": null
+  }
+ ],
+ "hide": [
+  {
+   "text": ".Designator",
+   "owner": "U103",
+   "x_mil": 5155.197,
+   "y_mil": 4061.445
+  },
+  {
+   "text": "RefDes",
+   "owner": "U102",
+   "x_mil": 5163.071,
+   "y_mil": 4920.205
+  },
+  {
+   "text": "REFDES",
+   "owner": "U102",
+   "x_mil": 5163.071,
+   "y_mil": 4932.705
+  },
+  {
+   "text": ".Designator",
+   "owner": "U101",
+   "x_mil": 5197.323,
+   "y_mil": 5239.201
+  },
+  {
+   "text": ".Designator",
+   "owner": "RV101",
+   "x_mil": 5434.732,
+   "y_mil": 4604.989
+  },
+  {
+   "text": ".Designator",
+   "owner": "Q102",
+   "x_mil": 5364.941,
+   "y_mil": 4224.536
+  },
+  {
+   "text": ".Designator",
+   "owner": "Q101",
+   "x_mil": 5092.205,
+   "y_mil": 4486.642
+  },
+  {
+   "text": ".Designator",
+   "owner": "LED101",
+   "x_mil": 5056.772,
+   "y_mil": 5846.878
+  },
+  {
+   "text": ".Designator",
+   "owner": "FB102",
+   "x_mil": 5472.913,
+   "y_mil": 4609.28
+  },
+  {
+   "text": ".Designator",
+   "owner": "FB101",
+   "x_mil": 5415.039,
+   "y_mil": 3781.918
+  },
+  {
+   "text": "REFDES",
+   "owner": "F101",
+   "x_mil": 5116.319,
+   "y_mil": 5859.575
+  },
+  {
+   "text": "RefDes",
+   "owner": "F101",
+   "x_mil": 5128.819,
+   "y_mil": 5859.575
+  },
+  {
+   "text": ".Designator",
+   "owner": "D101",
+   "x_mil": 5472.913,
+   "y_mil": 5652.587
+  }
+ ],
+ "delete": [
+  {
+   "text": "R111",
+   "x_mil": 5357.362,
+   "y_mil": 4339.3
+  },
+  {
+   "text": "R116",
+   "x_mil": 5373.11,
+   "y_mil": 3849.142
+  },
+  {
+   "text": "P101",
+   "x_mil": 4774.685,
+   "y_mil": 5947.567
+  },
+  {
+   "text": "RV101",
+   "x_mil": 5213.583,
+   "y_mil": 4427.213
+  },
+  {
+   "text": "D101",
+   "x_mil": 5380.984,
+   "y_mil": 5910.008
+  },
+  {
+   "text": "U103",
+   "x_mil": 5082.795,
+   "y_mil": 3857.016
+  },
+  {
+   "text": "U101",
+   "x_mil": 5129.961,
+   "y_mil": 5207.922
+  },
+  {
+   "text": "U102",
+   "x_mil": 5089.528,
+   "y_mil": 4827.252
+  }
+ ]
+}
